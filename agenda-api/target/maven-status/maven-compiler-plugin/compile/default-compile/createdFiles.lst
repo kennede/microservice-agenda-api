@@ -1,0 +1,4 @@
+com\github\sepulvida\agendaapi\model\api\rest\ContatoController.class
+com\github\sepulvida\agendaapi\AgendaApiApplication.class
+com\github\sepulvida\agendaapi\model\repository\ContatoRepository.class
+com\github\sepulvida\agendaapi\model\entity\Contato.class
